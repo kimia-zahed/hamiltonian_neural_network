@@ -9,7 +9,7 @@ the main project is implimented in pytorch here you can find code in Tensorflow.
 Research shows baseline neural network (usual multilayer perceptron(MLP) neural networks) can not show conservation of energy and it will make false predictions but the hamiltonian neural network can understand physics lows (like conservation of energy)  and make corect predictions.
 
 Our results for mass-spring and ideal pendulum can be seen here
-they show a good conformity the results of mane article
+they show a good conformity the results of maine article
 
  ### mass-spring system 
 ![Test Image 7](https://github.com/kimia-zahed/hamiltonian_neural_network/blob/main/picture_massSpring/hamiltonyPerTime_massSpringHNN.jpg)
@@ -29,12 +29,17 @@ again real system has fluctuating aroud an amount of conserved energy and it is 
 
 ## How to run
 
-Code will be ran simply in google colab. if you want to run it in personal coumputer you only need to install jupyternote bok and needed libraries. 
+Code will be ran simply in google colab. if you want to run it in personal coumputer you only need to install jupyter notebook and needed libraries. 
 
 ### needed libraries
 1-Tensorflow and Keras backend Tensorflow
+
 2-scipy
+
 3-autograd
+
 4-pandas
+
 5-matplotlib
+
 6-numpy
