@@ -11,7 +11,7 @@ Research shows baseline neural network (usual multilayer perceptron(MLP) neural 
 Our results for mass-spring and ideal pendulum can be seen here
 they show a good conformity the results of maine article
 
- ### mass-spring system 
+ ### Mass-Spring system 
 ![Test Image 7](https://github.com/kimia-zahed/hamiltonian_neural_network/blob/main/picture_massSpring/hamiltonyPerTime_massSpringHNN.jpg)
 ![Test Image 7](https://github.com/kimia-zahed/hamiltonian_neural_network/blob/main/picture_massSpring/hamiltonyPerTime_massSpringBaseline.jpg)
 
@@ -20,7 +20,7 @@ Baseline prdiction clearly showes a fall in energy while there is no fraction in
 ![Test Image 7](https://github.com/kimia-zahed/hamiltonian_neural_network/blob/main/picture_massSpring/trajectory_massSpringBaseline.jpg)
 ![Test Image 7](https://github.com/kimia-zahed/hamiltonian_neural_network/blob/main/picture_massSpring/trajectory_massSpringHNN.jpg)
 
-### ideal pendulum
+### Ideal Pendulum
 
 this time Baseline model predict an increase in energy! while no energy is added.
 again real system has fluctuating aroud an amount of conserved energy and it is predicted by HNN.
